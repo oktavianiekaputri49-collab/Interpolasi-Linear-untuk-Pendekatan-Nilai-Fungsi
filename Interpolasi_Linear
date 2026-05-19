@@ -1,0 +1,39 @@
+📊 Interpolasi Linear untuk Pendekatan Nilai Fungsi
+Deskripsi
+Proyek ini membahas penggunaan Metode Interpolasi Linear untuk memperkirakan nilai fungsi pada suatu titik berdasarkan data yang tersedia dalam tabel. Pada proyek ini dilakukan pendekatan nilai f(0,9) menggunakan dua titik data terdekat.
+
+Data Tabel
+x	           f(x)
+0,6	       -0,17694460
+0,7	        0,01375227
+0,8	        0,22363362
+1,0	        0,65809197
+
+Nilai yang dicari:
+f(0,9)
+
+Metode & Tools
+Metode Numerik: Interpolasi Linear
+Software: Microsoft Excel
+Pendekatan menggunakan dua titik terdekat
+Implementasi rumus interpolasi linear
+
+Rumus Interpolasi Linear
+f(x)=f(x0​)+x1​−x0​(x−x0​)(f(x1​)−f(x0​))/x1-x0​
+
+Hasil
+Nilai pendekatan berhasil diperoleh menggunakan interpolasi linear
+Estimasi nilai fungsi pada x=0,9 menghasilkan nilai mendekati data sebenarnya
+Metode menunjukkan proses perhitungan yang sederhana dan sistematis
+
+Tujuan Proyek
+Memahami konsep interpolasi linear
+Mengestimasi nilai fungsi berdasarkan data tabel
+Mengimplementasikan metode numerik menggunakan Excel
+Melatih penerapan rumus interpolasi dalam analisis numerik
+
+Insight
+Interpolasi linear sangat efektif digunakan untuk memperkirakan nilai di antara dua titik data karena prosesnya sederhana, cepat, dan mudah diimplementasikan dalam perhitungan numerik.
+
+Penutup
+Proyek ini merupakan latihan metode numerik untuk memahami bagaimana pendekatan nilai fungsi dapat dilakukan menggunakan data tabel melalui metode inter
